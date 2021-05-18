@@ -4,7 +4,7 @@ This app was buildt on streamlit library and is currently hosted on heroku. The 
 
 **View the app** [here](https://ffda.herokuapp.com/)
 
-![image](https://imgur.com/a/735q2PF)
+![image](https://i.postimg.cc/vHM3431q/Screenshot-189.png)
 
 #### Steps on how to run the FFDA II on your local host
 
