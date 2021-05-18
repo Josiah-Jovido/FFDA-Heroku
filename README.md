@@ -4,18 +4,19 @@ This app was buildt on streamlit library and currently hosted on heroku. The com
 
 #### Steps on how to run the FFDA II on your local host
 
-1. Create a Python virtualenv
-
-`python3 -m virtualenv FFDA`
-
-2. Activate the virtualenv
-
-`Source FFDA/bin/activate`
-
-3. Install required libraries
-
-`pip install requirement.txt`
-
-4. Run the app
-
-`streamlit run fraud_app.py`
+1. **Create** a Python virtualenv
+```
+python3 -m virtualenv FFDA
+```
+2. **Activate** the virtualenv
+```
+Source FFDA/bin/activate
+```
+3. **Install** required libraries
+```
+pip install requirement.txt
+```
+4. **Run** the app
+```
+streamlit run fraud_app.py
+```
